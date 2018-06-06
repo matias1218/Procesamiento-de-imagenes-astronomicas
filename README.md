@@ -1,7 +1,7 @@
 
 # Manual de Usuario
 
-Este manual explica de manera breve los requerimientos y el uso del programa.
+Este manual explica de manera breve el uso del programa.
 
 ####  Compilación
 Para compilar el programa, basta con abrir una terminal sea en Linux o Windows dentro de la carpeta donde se encuentra el archivo de programa y ejecutar el comando:
